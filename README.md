@@ -8,5 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/91271297/162154915-436e148c-0eec-4080-bc32-05bafc0086ac.png)
 - A Tesla CyberTruck replica that was attempted on the Godot Engine, as a vehicle mod.
+
 ![image](https://user-images.githubusercontent.com/91271297/162230332-aa7011fe-ee44-4e7e-b02c-74e9bff334c2.png)
 - (Left) Vehicle modified version (Aditya Khadkikar), (Right) Template vehicle that came with the SMCE emulator
